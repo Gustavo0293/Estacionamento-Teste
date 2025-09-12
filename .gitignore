@@ -1,0 +1,19 @@
+# Build results
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs and OS files
+*.log
+*.DS_Store
