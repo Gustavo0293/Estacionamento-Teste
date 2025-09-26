@@ -57,7 +57,7 @@ while (exibirMenu)
 
             else
             {
-                Console.WriteLine("Carro não encontrado.");
+                Console.WriteLine("O Carro informado não fois encontrado.");
                 
             }
             Console.ReadKey();
@@ -74,7 +74,7 @@ while (exibirMenu)
             }
             else
             {
-                Console.WriteLine("Erro ao Exclur Carro!");
+                Console.WriteLine("Erro ao Exclur o Carro!");
                 
             }
             Console.ReadKey();
